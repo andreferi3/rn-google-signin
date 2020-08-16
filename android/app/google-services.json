@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968431256562",
+    "firebase_url": "https://deeplink-989be.firebaseio.com",
+    "project_id": "deeplink-989be",
+    "storage_bucket": "deeplink-989be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968431256562:android:7914f46ea6dbf3eef5616b",
+        "android_client_info": {
+          "package_name": "com.minder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968431256562-hh3t0353ubrm1ke677l0u99tcks82t61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minder",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "968431256562-del9npevnqpqpmeiens09emf2t6dpd50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwgqsxq2LexzyofpS219e6GwhONHgKWL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968431256562-del9npevnqpqpmeiens09emf2t6dpd50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
